@@ -8,6 +8,8 @@ build/
 
 #Logs
 *.log
+#properties
+application.properties
 
 #OS files
 .DS_Store
